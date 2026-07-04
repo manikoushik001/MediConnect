@@ -1,5 +1,7 @@
 # MediConnect – College Health Center Web Application
 
+**Live Demo**: [https://mediconnectx.netlify.app/](https://mediconnectx.netlify.app/)
+
 MediConnect is a full-stack web application designed for college health centers, enabling students, doctors, and administrators to manage appointments, health records, and communication efficiently. The project features a modern React frontend (Material-UI), a secure Node.js/Express backend, and a MongoDB Atlas database. It is deployed with Netlify (frontend) and Render (backend).
 
 ---
